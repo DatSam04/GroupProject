@@ -14,7 +14,7 @@ public class Introduction {
 		instruction += "If a student wants to join one of these group(student goverment, ambassador, and CSC group)";
 		instruction += ", they can see how the group is working.\n";		
 		instruction += "In addition, they can decide that they want to join or not.";
-		instruction += "Also, this project provides to student can register their classes.\n";	
+		instruction += "Also, this project can help student to register their classes.\n";	
 		instruction += "Enter GS(for get Schedule)\n";
 		instruction += "Enter RC(for register class)\n";
 		instruction += "Enter OS(for add outside schedule)\n";
