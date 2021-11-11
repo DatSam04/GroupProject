@@ -101,19 +101,19 @@ public class Introduction {
 		aString += "the South Seattle College system such as rule and regulations , buildings, or programs. If new students \n";
 		aString += "do not know something, they will help them until they are okie. ";		
 		aString += "For example, if they face some troubles  \n";		
-		aString += "with their host family or landloard, they will help them, and give a some useful ideas to them.\n";
-		aString += "You can also enjoy your lesiure time with them, if they do have an outdoor activities such as snowskating,\n";		
+		aString += "with their host family or landloard, they will help them by giving some useful ideas to them.\n";
+		aString += "You can also enjoy your leisure time with them, if they host an outdoor activities such as snowskating,\n";		
 		aString += "movie night, or snowtubing.";		
 		return aString;
 		
 	}
 	public String getIntroductionCSC(){
 		String resultString = "";
-		resultString += "This CSC group supports to students who want to do";
+		resultString += "This CSC group supports students who want to do";
 		resultString += " a good portfolio for their career.\n";
-		resultString += "This team also warmly welcome to meet the group members each other.\n";
-		resultString += "If you are a CSC member, you might join this group";
-		resultString += " because this group will help you to start build your career.";		
+		resultString += "CSC team provide a practice-learning environment for the members to improve their coding skills.\n";
+		resultString += "If you are a CSC major, you should join this group";
+		resultString += " because it will help you to start building your career.";		
 		return resultString;
 		
 	}
